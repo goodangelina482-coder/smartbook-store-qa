@@ -1,2 +1,3 @@
-# smartbook-store-qa
-SmartBook Store QA project
+# SmartBook Store
+
+Version 2.0
